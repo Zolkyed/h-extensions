@@ -11,8 +11,8 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:evanmico/h-extensions",
-    "code": "gh:evanmico/h-extensions/seadex"
+    "update": "gh:Zolkyed/h-extensions",
+    "code": "gh:Zolkyed/h-extensions/seadex"
   },
   {
     "name": "AnimeTosho",
@@ -26,8 +26,8 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:evanmico/h-extensions",
-    "code": "gh:evanmico/h-extensions/animetosho"
+    "update": "gh:Zolkyed/h-extensions",
+    "code": "gh:Zolkyed/h-extensions/animetosho"
   },
   {
     "name": "AnimeTosho",
@@ -41,8 +41,8 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:evanmico/h-extensions",
-    "code": "gh:evanmico/h-extensions/animetosho-nzb",
+    "update": "gh:Zolkyed/h-extensions",
+    "code": "gh:Zolkyed/h-extensions/animetosho-nzb",
     "options": {
       "domain": {
         "type": "string",
